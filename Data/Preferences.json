@@ -1,0 +1,9 @@
+{
+    "languages": "English",
+    "response_style": "Balanced",
+    "search_engine": "Google",
+    "voice_response": true,
+    "notifications": true,
+    "auto_start": true,
+    "auto_delete_chat": true
+}
